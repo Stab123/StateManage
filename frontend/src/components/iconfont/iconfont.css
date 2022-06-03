@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "anticon-jeecg"; /* Project id 2906126 */
+  src: url('iconfont.woff2?t=1635759967975') format('woff2'),
+       url('iconfont.woff?t=1635759967975') format('woff'),
+       url('iconfont.ttf?t=1635759967975') format('truetype'),
+       url('iconfont.svg?t=1635759967975#anticon-jeecg') format('svg');
+}
+
+.anticon-jeecg {
+  font-family: "anticon-jeecg" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.anticonfolder:before {
+  content: "\e744";
+}
+
+.anticonfile:before {
+  content: "\e7bb";
+}
+
+.anticontag:before {
+  content: "\e64d";
+}
+
+.anticonbranches:before {
+  content: "\e7e7";
+}
+
+.anticonstorage:before {
+  content: "\e806";
+}
+
+.anticon-Files:before {
+  content: "\e779";
+}
+
+.anticongit-commit:before {
+  content: "\e61b";
+}
+

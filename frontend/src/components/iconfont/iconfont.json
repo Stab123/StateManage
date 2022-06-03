@@ -1,0 +1,58 @@
+{
+  "id": "2906126",
+  "name": "jeecg",
+  "font_family": "anticon-jeecg",
+  "css_prefix_text": "anticon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "544516",
+      "name": "folder",
+      "font_class": "folder",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "4766478",
+      "name": "file",
+      "font_class": "file",
+      "unicode": "e7bb",
+      "unicode_decimal": 59323
+    },
+    {
+      "icon_id": "109790",
+      "name": "tag",
+      "font_class": "tag",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "4766986",
+      "name": "branches",
+      "font_class": "branches",
+      "unicode": "e7e7",
+      "unicode_decimal": 59367
+    },
+    {
+      "icon_id": "5810273",
+      "name": "storage",
+      "font_class": "storage",
+      "unicode": "e806",
+      "unicode_decimal": 59398
+    },
+    {
+      "icon_id": "6802404",
+      "name": "3-Files",
+      "font_class": "-Files",
+      "unicode": "e779",
+      "unicode_decimal": 59257
+    },
+    {
+      "icon_id": "18440599",
+      "name": "git-commit",
+      "font_class": "git-commit",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    }
+  ]
+}
